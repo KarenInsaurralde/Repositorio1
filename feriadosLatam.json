@@ -1,0 +1,44 @@
+[
+    {
+        "año": 2023,
+        "mes": 3,
+        "dia": 20,
+        "motivo": "Feriado"
+    },
+    {
+        "mes": 4,
+        "año": 2023,
+        "dia": 6,
+        "motivo": "Jueves santo"
+    },
+    {
+        "año": 2023,
+        "mes": 4,
+        "dia": 7,
+        "motivo": "Puente"
+    },
+    {
+        "año": 2023,
+        "mes": 5,
+        "dia": 1,
+        "motivo": "Día del trabajo"
+    },
+    {
+        "año": 2023,
+        "mes": 8,
+        "dia": 7,
+        "motivo": "Feriado"
+    },
+    {
+        "año": 2023,
+        "mes": 12,
+        "dia": 8,
+        "motivo": "Inmaculada concepción de María"
+    },
+    {
+        "año": 2023,
+        "mes": 12,
+        "dia": 25,
+        "motivo": "Navidad"
+    }
+]
